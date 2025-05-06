@@ -1,0 +1,155 @@
+{
+    "productsByCategory": {
+      "watches": [
+        {
+          "id": "watch1",
+          "name": "Premium Chronograph Watch",
+          "price": 299.99,
+          "image": "https://images.unsplash.com/photo-1623998021669-c1a342886557?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Watches",
+          "isNew": true
+        },
+        {
+          "id": "watch2",
+          "name": "Minimal Gold Watch",
+          "price": 249.99,
+          "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Watches"
+        },
+        {
+          "id": "watch3",
+          "name": "Classic Silver Timepiece",
+          "price": 199.99,
+          "image": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Watches",
+          "isSale": true,
+          "discount": 20
+        },
+        {
+          "id": "watch4",
+          "name": "Smart Watch Pro",
+          "price": 349.99,
+          "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Watches",
+          "isNew": true
+        }
+      ],
+      "earbuds": [
+        {
+          "id": "earbud1",
+          "name": "Wireless Bluetooth Earbuds",
+          "price": 129.99,
+          "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Earbuds",
+          "isSale": true,
+          "discount": 15
+        },
+        {
+          "id": "earbud2",
+          "name": "Noise-Canceling Earbuds",
+          "price": 159.99,
+          "image": "https://images.unsplash.com/photo-1608156639585-b3a032e88587?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Earbuds",
+          "isNew": true
+        },
+        {
+          "id": "earbud3",
+          "name": "Sports Wireless Earbuds",
+          "price": 99.99,
+          "image": "https://images.unsplash.com/photo-1627734822534-6b0462d2924c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Earbuds"
+        },
+        {
+          "id": "earbud4",
+          "name": "Premium Sound Earbuds",
+          "price": 179.99,
+          "image": "https://images.unsplash.com/photo-1630091003936-aea522c1e8c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Earbuds"
+        }
+      ],
+      "bags": [
+        {
+          "id": "bag1",
+          "name": "Designer Leather Handbag",
+          "price": 199.99,
+          "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Bags"
+        },
+        {
+          "id": "bag2",
+          "name": "Canvas Tote Bag",
+          "price": 89.99,
+          "image": "https://images.unsplash.com/photo-1591561954555-607968c989ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Bags",
+          "isSale": true,
+          "discount": 10
+        },
+        {
+          "id": "bag3",
+          "name": "Elegant Clutch Purse",
+          "price": 129.99,
+          "image": "https://images.unsplash.com/photo-1597633544424-4da6155944a0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Bags",
+          "isNew": true
+        },
+        {
+          "id": "bag4",
+          "name": "Casual Backpack",
+          "price": 79.99,
+          "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Bags"
+        }
+      ],
+      "neckbands": [
+        {
+          "id": "neckband1",
+          "name": "Sports Neckband Earphones",
+          "price": 79.99,
+          "image": "https://images.unsplash.com/photo-1578319439584-104c94d37305?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Neckbands",
+          "isNew": true
+        },
+        {
+          "id": "neckband2",
+          "name": "Bluetooth Neckband",
+          "price": 69.99,
+          "image": "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Neckbands"
+        },
+        {
+          "id": "neckband3",
+          "name": "Premium Sound Neckband",
+          "price": 99.99,
+          "image": "https://images.unsplash.com/photo-1545127398-14699f92334b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Neckbands",
+          "isSale": true,
+          "discount": 25
+        },
+        {
+          "id": "neckband4",
+          "name": "Water-resistant Neckband",
+          "price": 89.99,
+          "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "category": "Neckbands"
+        }
+      ]
+    },
+    "categoryInfo": {
+      "watches": {
+        "title": "Premium Watches",
+        "description": "Elegant timepieces that combine style and functionality"
+      },
+      "earbuds": {
+        "title": "Wireless Earbuds",
+        "description": "Superior sound quality for an immersive audio experience"
+      },
+      "bags": {
+        "title": "Stylish Bags",
+        "description": "Fashion-forward bags for every style and occasion"
+      },
+      "neckbands": {
+        "title": "Neckbands",
+        "description": "Comfortable audio solutions for an active lifestyle"
+      }
+    }
+  }

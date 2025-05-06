@@ -1,0 +1,28 @@
+[
+    { "id": "watch1", "name": "Premium Chronograph Watch", "category": "Watches", "url": "/product/watch1" },
+    { "id": "watch2", "name": "Minimal Gold Watch", "category": "Watches", "url": "/product/watch2" },
+    { "id": "watch3", "name": "Classic Silver Timepiece", "category": "Watches", "url": "/product/watch3" },
+    { "id": "watch4", "name": "Smart Watch Pro", "category": "Watches", "url": "/product/watch4" },
+  
+    { "id": "earbud1", "name": "Wireless Bluetooth Earbuds", "category": "Earbuds", "url": "/product/earbud1" },
+    { "id": "earbud2", "name": "Noise-Canceling Earbuds", "category": "Earbuds", "url": "/product/earbud2" },
+    { "id": "earbud3", "name": "Sports Wireless Earbuds", "category": "Earbuds", "url": "/product/earbud3" },
+    { "id": "earbud4", "name": "Premium Sound Earbuds", "category": "Earbuds", "url": "/product/earbud4" },
+  
+    { "id": "bag1", "name": "Designer Leather Handbag", "category": "Bags", "url": "/product/bag1" },
+    { "id": "bag2", "name": "Canvas Tote Bag", "category": "Bags", "url": "/product/bag2" },
+    { "id": "bag3", "name": "Elegant Clutch Purse", "category": "Bags", "url": "/product/bag3" },
+    { "id": "bag4", "name": "Casual Backpack", "category": "Bags", "url": "/product/bag4" },
+  
+    { "id": "neckband1", "name": "Sports Neckband Earphones", "category": "Neckbands", "url": "/product/neckband1" },
+    { "id": "neckband2", "name": "Bluetooth Neckband", "category": "Neckbands", "url": "/product/neckband2" },
+    { "id": "neckband3", "name": "Premium Sound Neckband", "category": "Neckbands", "url": "/product/neckband3" },
+    { "id": "neckband4", "name": "Water-resistant Neckband", "category": "Neckbands", "url": "/product/neckband4" },
+  
+    { "id": "home", "name": "Home Page", "category": "Pages", "url": "/" },
+    { "id": "categories", "name": "All Categories", "category": "Pages", "url": "/categories" },
+    { "id": "contact", "name": "Contact Us", "category": "Pages", "url": "/contact" },
+    { "id": "about", "name": "About Us", "category": "Pages", "url": "/about" },
+    { "id": "faqs", "name": "Frequently Asked Questions", "category": "Pages", "url": "/faqs" }
+  ]
+  

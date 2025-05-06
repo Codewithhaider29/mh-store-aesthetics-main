@@ -1,0 +1,255 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "rating": 5,
+    "text": "The watch I purchased is absolutely stunning! The quality exceeds my expectations and I get compliments every time I wear it.",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "English",
+    "product": "Premium Chronograph Watch"
+  },
+  {
+    "id": 2,
+    "name": "احمد خان",
+    "rating": 5,
+    "text": "یہ ایئر بڈز کی کوالٹی بہت اچھی ہے۔ آواز بلکل صاف اور واضح ہے۔ میں اپنے دوستوں کو ضرور بتاؤں گا۔",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Urdu",
+    "product": "Wireless Bluetooth Earbuds"
+  },
+  {
+    "id": 3,
+    "name": "Farah Malik",
+    "rating": 4,
+    "text": "MH Store ki bags bohat achi hain. Material aur quality top class hai. Main zarur dobara khareedunga.",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Roman Urdu",
+    "product": "Designer Leather Handbag"
+  },
+  {
+    "id": 4,
+    "name": "John Smith",
+    "rating": 5,
+    "text": "The customer service at MH Store is outstanding. My order arrived quickly and was exactly as described. Definitely shopping here again!",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "English",
+    "product": "Smart Watch Pro"
+  },
+  {
+    "id": 5,
+    "name": "علی رضا",
+    "rating": 5,
+    "text": "اس اسٹور سے خریداری کرنا میرے لیے بہت اچھا تجربہ تھا۔ سامان کی کوالٹی عمدہ ہے اور قیمتیں بھی مناسب ہیں۔",
+    "image": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Urdu",
+    "product": "Minimal Gold Watch"
+  },
+  {
+    "id": 6,
+    "name": "Jane Doe",
+    "rating": 4,
+    "text": "The neckband I bought has excellent sound quality and battery life. Very comfortable to wear all day.",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "English",
+    "product": "Sports Neckband Earphones"
+  },
+  {
+    "id": 7,
+    "name": "محمد علی",
+    "rating": 5,
+    "text": "گھڑی کی کوالٹی بہت اچھی ہے۔ میں اس برانڈ سے بہت خوش ہوں۔ شکریہ MH اسٹور",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Urdu",
+    "product": "Classic Silver Timepiece"
+  },
+  {
+    "id": 8,
+    "name": "Amina Khan",
+    "rating": 5,
+    "text": "MH Store ki products hamesha best hoti hain. Customer service bhi bohat achi hai.",
+    "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Roman Urdu",
+    "product": "Canvas Tote Bag"
+  },
+  {
+    "id": 9,
+    "name": "Robert Williams",
+    "rating": 4,
+    "text": "The quality of the watch exceeded my expectations. Shipping was fast and the packaging was secure.",
+    "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "English",
+    "product": "Premium Chronograph Watch"
+  },
+  {
+    "id": 10,
+    "name": "زینب علی",
+    "rating": 5,
+    "text": "میں نے حال ہی میں ایک بیگ خریدا ہے اور اس کی کوالٹی سے بہت خوش ہوں۔ یہ بہت ٹکاؤ اور خوبصورت ہے۔",
+    "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Urdu",
+    "product": "Elegant Clutch Purse"
+  },
+  {
+    "id": 11,
+    "name": "Hassan Ahmed",
+    "rating": 4,
+    "text": "MH Store ke earbuds ki sound quality amazing hai. Battery timing bhi kaafi achi hai.",
+    "image": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Roman Urdu",
+    "product": "Noise-Canceling Earbuds"
+  },
+  {
+    "id": 12,
+    "name": "Emily Parker",
+    "rating": 5,
+    "text": "I love my new neckband! The sound quality is amazing and the battery lasts all day.",
+    "image": "https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "English",
+    "product": "Bluetooth Neckband"
+  },
+
+  {
+    "id": 13,
+    "name": "Kiran Baloch",
+    "rating": 5,
+    "text": "The quality of the laptop bag I purchased is exceptional. It is durable and spacious, and I love the design.",
+    "image": "https://images.unsplash.com/photo-1584172333252-8c5191c60d6d?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Roman Urdu",
+    "product": "Laptop Backpack"
+  },
+  {
+    "id": 14,
+    "name": "Ali Shah",
+    "rating": 4,
+    "text": "The Bluetooth speakers are good. The sound quality is decent but could be a bit louder. Overall, a solid purchase.",
+    "image": "https://images.unsplash.com/photo-1602514087212-c8ed7b8000f9?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Urdu",
+    "product": "Portable Bluetooth Speaker"
+  },
+  {
+    "id": 15,
+    "name": "Sana Akhtar",
+    "rating": 5,
+    "text": "I recently bought the wireless charger, and it works perfectly! It charges my phone super fast and is very convenient.",
+    "image": "https://images.unsplash.com/photo-1610079030324-d7604d357d9f?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "English",
+    "product": "Wireless Fast Charger"
+  },
+  {
+    "id": 16,
+    "name": "Omar Farooq",
+    "rating": 5,
+    "text": "The smartwatch is amazing! It tracks my workouts accurately, and the battery lasts all day. Highly recommend it.",
+    "image": "https://images.unsplash.com/photo-1590611240709-c00bcd52b144?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Roman Urdu",
+    "product": "Smart Watch Pro"
+  },
+  {
+    "id": 17,
+    "name": "Fatima Qureshi",
+    "rating": 4,
+    "text": "The tote bag I bought is really stylish, but I wish it had more compartments. Still, the quality is top-notch.",
+    "image": "https://images.unsplash.com/photo-1506486343-5ea73f4f422b?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Urdu",
+    "product": "Canvas Tote Bag"
+  },
+  {
+    "id": 18,
+    "name": "Hassan Raza",
+    "rating": 5,
+    "text": "I bought the neckband earphones and they’re absolutely fantastic! The sound is crystal clear, and they fit comfortably.",
+    "image": "https://images.unsplash.com/photo-1533851624163-80f6e9f33a5f?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Roman Urdu",
+    "product": "Sports Neckband Earphones"
+  },
+  {
+    "id": 19,
+    "name": "Sophia Williams",
+    "rating": 5,
+    "text": "The product quality is fantastic, and I absolutely love my new bag. It's stylish, spacious, and practical for everyday use.",
+    "image": "https://images.unsplash.com/photo-1596681189440-b8f4699b270b?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "English",
+    "product": "Designer Leather Handbag"
+  },
+  {
+    "id": 20,
+    "name": "Amna Shahid",
+    "rating": 5,
+    "text": "This classic watch looks so elegant and goes well with everything. It’s the perfect addition to my collection.",
+    "image": "https://images.unsplash.com/photo-1611144336547-c9b9ea3fe1b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Urdu",
+    "product": "Classic Silver Timepiece"
+  },
+  {
+    "id": 21,
+    "name": "Raza Ali",
+    "rating": 5,
+    "text": "I recently bought a leather wallet and I love it! The material is durable and the design is sleek. Highly recommend!",
+    "image": "https://images.unsplash.com/photo-1501051088497-c879d64b5db3?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Roman Urdu",
+    "product": "Premium Leather Wallet"
+  },
+  {
+    "id": 22,
+    "name": "Sarah Ahmed",
+    "rating": 4,
+    "text": "The headphones I purchased are great. They provide clear sound and are comfortable to wear for hours. A little pricey, but worth it.",
+    "image": "https://images.unsplash.com/photo-1568039157-16e06cf4209d?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "English",
+    "product": "Noise-Canceling Headphones"
+  },
+  {
+    "id": 23,
+    "name": "Nashit Khan",
+    "rating": 5,
+    "text": "The mobile phone case is perfect! It fits my phone like a glove and offers great protection without being bulky.",
+    "image": "https://images.unsplash.com/photo-1593655742063-499e1796d6b1?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Roman Urdu",
+    "product": "Shockproof Phone Case"
+  },
+  {
+    "id": 24,
+    "name": "Daniel Thompson",
+    "rating": 5,
+    "text": "I’m really impressed with the quality of the shoes I bought. They’re comfortable, stylish, and perfect for everyday wear.",
+    "image": "https://images.unsplash.com/photo-1571902343701-6a973ad8c77f?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "English",
+    "product": "Casual Sneakers"
+  },
+  {
+    "id": 25,
+    "name": "Maya Khan",
+    "rating": 4,
+    "text": "The bag I purchased is beautiful, but it’s a bit smaller than I expected. Still, the quality is excellent, and it looks great.",
+    "image": "https://images.unsplash.com/photo-1589401475950-e2a6a29931da?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Urdu",
+    "product": "Elegant Leather Handbag"
+  },
+  {
+    "id": 26,
+    "name": "Fahad Ali",
+    "rating": 5,
+    "text": "The wireless charger works perfectly! It charges my phone quickly, and the design is sleek and modern. A great addition to my desk.",
+    "image": "https://images.unsplash.com/photo-1614690173515-2d220f66daaa?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Roman Urdu",
+    "product": "Wireless Fast Charger"
+  },
+  {
+    "id": 27,
+    "name": "Jessica Cooper",
+    "rating": 5,
+    "text": "The quality of the sports bag I bought is exceptional. It has enough space to fit all my gear, and the material is very durable.",
+    "image": "https://images.unsplash.com/photo-1605090967259-e3e0cc57a74b?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "English",
+    "product": "Sports Gear Bag"
+  },
+  {
+    "id": 28,
+    "name": "Ayesha Iqbal",
+    "rating": 5,
+    "text": "The quality of the sunglasses is top-notch. They look great and provide excellent UV protection. Definitely worth the price.",
+    "image": "https://images.unsplash.com/photo-1583919897797-1ca17804000e?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80",
+    "language": "Urdu",
+    "product": "Polarized Sunglasses"
+  }
+]

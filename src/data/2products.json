@@ -1,0 +1,76 @@
+{
+    "products": {
+      "watch1": {
+        "id": "watch1",
+        "name": "Premium Chronograph Watch",
+        "price": 299.99,
+        "image": "https://images.unsplash.com/photo-1623998021669-c1a342886557?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "Watches",
+        "isNew": true,
+        "description": "This premium chronograph watch features a stainless steel case, sapphire crystal, and precise Swiss movement. Water-resistant up to 100 meters, it's perfect for everyday wear or special occasions.",
+        "features": [
+          "Swiss-made chronograph movement",
+          "Sapphire crystal glass",
+          "100m water resistance",
+          "Stainless steel case and band",
+          "2-year warranty"
+        ],
+        "availableColors": ["Silver", "Black", "Gold"],
+        "stock": 15
+      },
+      "earbud1": {
+        "id": "earbud1",
+        "name": "Wireless Bluetooth Earbuds",
+        "price": 129.99,
+        "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "Earbuds",
+        "isSale": true,
+        "discount": 15,
+        "description": "Experience crystal-clear audio with these premium wireless earbuds. Featuring noise cancellation technology, waterproof design, and a comfortable fit for all-day wear.",
+        "features": [
+          "Active noise cancellation",
+          "IPX7 waterproof rating",
+          "Up to 36 hours of battery life with charging case",
+          "Touch controls",
+          "Voice assistant support"
+        ],
+        "availableColors": ["White", "Black", "Blue"],
+        "stock": 23
+      },
+      "bag1": {
+        "id": "bag1",
+        "name": "Designer Leather Handbag",
+        "price": 199.99,
+        "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "Bags",
+        "description": "This elegant designer leather handbag combines style and functionality. Crafted from genuine leather with multiple compartments and adjustable straps for versatile carrying options.",
+        "features": [
+          "Genuine full-grain leather",
+          "Spacious main compartment with zippered closure",
+          "Interior pockets for organization",
+          "Adjustable shoulder strap",
+          "Protective metal feet"
+        ],
+        "availableColors": ["Tan", "Black", "Burgundy"],
+        "stock": 8
+      },
+      "neckband1": {
+        "id": "neckband1",
+        "name": "Sports Neckband Earphones",
+        "price": 79.99,
+        "image": "https://images.unsplash.com/photo-1578319439584-104c94d37305?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "category": "Neckbands",
+        "isNew": true,
+        "description": "Designed for active lifestyles, these sports neckband earphones offer a secure fit and sweat-resistance. Perfect for workouts with deep bass sound and long battery life.",
+        "features": [
+          "Sweat and water resistant",
+          "Up to 12 hours of battery life",
+          "Quick charge - 10 min for 2 hours playback",
+          "Built-in microphone for calls",
+          "Vibration alert for incoming calls"
+        ],
+        "availableColors": ["Black", "Blue", "Red"],
+        "stock": 19
+      }
+    }
+  }

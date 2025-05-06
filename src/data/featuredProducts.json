@@ -1,0 +1,35 @@
+[
+    {
+      "id": "watch1",
+      "name": "Premium Chronograph Watch",
+      "price": 299.99,
+      "image": "https://images.unsplash.com/photo-1623998021669-c1a342886557?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "category": "Watches",
+      "isNew": true
+    },
+    {
+      "id": "earbud1",
+      "name": "Wireless Bluetooth Earbuds",
+      "price": 129.99,
+      "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "category": "Earbuds",
+      "isSale": true,
+      "discount": 15
+    },
+    {
+      "id": "bag1",
+      "name": "Designer Leather Handbag",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "category": "Bags"
+    },
+    {
+      "id": "neckband1",
+      "name": "Sports Neckband Earphones",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1578319439584-104c94d37305?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "category": "Neckbands",
+      "isNew": true
+    }
+  ]
+  
